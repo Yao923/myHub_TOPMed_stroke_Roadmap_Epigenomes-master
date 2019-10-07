@@ -8,10 +8,10 @@ maxHeightPixels 150:30:11
 visibility full
 priority 1
 
-track Aorta_Enhancer_H3K27ac
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E065-H3K27ac.imputed.pval.signal.bigwig
-shortLabel Aorta_Enhancer_H3K27ac
-longLabel Aorta_Enhancer_H3K27ac
+track Liver_Enhancer_H3K27ac
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E066-H3K27ac.imputed.pval.signal.bigwig
+shortLabel Liver_Enhancer_H3K27ac
+longLabel Liver_Enhancer_H3K27ac
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
