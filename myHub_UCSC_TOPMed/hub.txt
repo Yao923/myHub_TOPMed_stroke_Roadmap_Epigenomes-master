@@ -1,0 +1,5 @@
+hub TOPMed_epigenomes
+shortLabel TOPMed_epigenomes
+longLabel TOPMed_epigenomes
+genomesFile genomes.txt
+email huyao923@gmail.com
