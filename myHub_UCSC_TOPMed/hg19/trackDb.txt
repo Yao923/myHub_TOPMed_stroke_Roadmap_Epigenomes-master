@@ -23,19 +23,3 @@ longLabel Adipose_Enhancer_H3K27ac
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
-
-track Liver_Enhancer_H3K4m1
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K4m1/E066-H3K4m1.imputed.pval.signal.bigwig
-shortLabel Liver_Enhancer_H3K4m1
-longLabel Liver_Enhancer_H3K4m1
-parent Enhancer_tracks
-type bigWig
-color 0,0,255
-
-track Adipose_Enhancer_H3K4m1
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K4m1/E063-H3K4m1.imputed.pval.signal.bigwig
-shortLabel Adipose_Enhancer_H3K4m1
-longLabel Adipose_Enhancer_H3K4m1
-parent Enhancer_tracks
-type bigWig
-color 0,0,255
